@@ -19,26 +19,28 @@ html, body {
 	float: left;
 }
 
-.right {
+.container {
 	height: 100%;
 	width: 33%;
-	background-color: #B8E986;
 	float: left;
-	z-index: 1;
+}
+
+.right {
+	height: 80%;
+	width: 100%;
+	background-color: #B8E986;
 }
 
 .image {
 	height: 20%;
 	width: 100%;
 	background-color: #D32C2C;
-	margin-top: 517px;
-	z-index: 2;
 }
 
 #words {
 	color: white;
 	font-family: sans-serif;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	text-align: center;
 	padding: 33px;
 }
