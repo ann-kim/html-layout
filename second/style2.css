@@ -37,7 +37,7 @@ html, body {
 	background-color: #D32C2C;
 }
 
-#words {
+.words {
 	color: white;
 	font-family: sans-serif;
 	font-size: 1.2em;
